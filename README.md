@@ -1,4 +1,4 @@
-# Blender-GenshinPBR
+# Genshin Impact environment PBR shader for Blender
 Shader for Blender attempting to make use of Genshin Impact's PBR environment textures.
 
 ## Preview
